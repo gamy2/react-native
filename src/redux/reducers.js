@@ -2,6 +2,10 @@ const INIT_STATE={
     users: [
         {userName:"ahmed", age:20},
         {userName:"ahmed", age:20},
+        {userName:"ahmed", age:20},
+        {userName:"ahmed", age:20},
+        {userName:"ahmed", age:20},
+        {userName:"ahmed", age:20},
     ]
 }
 
